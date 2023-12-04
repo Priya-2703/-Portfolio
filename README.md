@@ -13,4 +13,4 @@ Welcome to my Portfolio Project repository! This project serves as an interactiv
 
   **1. Clone the repository:**
 
-      git clone https://github.com/Priya-2703/ToDo.git
+      git clone https://github.com/Priya-2703/-Portfolio.git
